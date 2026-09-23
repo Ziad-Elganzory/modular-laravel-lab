@@ -1,3 +1,7 @@
 {
-    "Blog": true
+    "Blog": true,
+    "Test": true,
+    "Auth": true,
+    "Payment": true,
+    "Dashboard": true
 }
